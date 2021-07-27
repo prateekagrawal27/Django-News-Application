@@ -1,4 +1,2 @@
 # News-App
-#Python
-#Django
-#WebScrapping
+A dynamic web application which gives live news updates collected from different news websites.
